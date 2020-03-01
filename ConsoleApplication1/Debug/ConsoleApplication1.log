@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+c:\users\doria\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(10): warning C4005: "_WIN32_WINNT": ponowna definicja makra
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\sdkddkver.h(216): note: zobacz poprzednią definicję „_WIN32_WINNT”
+  ConsoleApplication1.vcxproj -> C:\Users\doria\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
